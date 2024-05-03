@@ -41,14 +41,14 @@ The prerequisites of the module are minimal:
     - Or, install [Mini-Forge](https://github.com/conda-forge/miniforge?tab=readme-ov-file#download). 
 
 > [!IMPORTANT]
-If you do so, it is important that you chose 2 options during installation: 
+**(For Windows users only)** If you do so, it is important that you chose 2 options during installation: 
 >    - install only for me and
 >    - add mini-forge to your `PATH`.
 
 - [Visual Studio Code](https://code.visualstudio.com/download)
 
 > [!IMPORTANT]  
-> For Windows users, chose the "system installer" and not the "user installer".
+> **(For Windows users only)**, chose the "system installer" and not the "user installer".
  
 - GIT: 
     - For Windows users: [GIT-SCM](https://git-scm.com/downloads)
