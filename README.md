@@ -38,7 +38,7 @@ The prerequisites of the module are minimal:
 
 - For Windows users, there are two solutions:
     - Install Anaconda: [Anaconda](https://www.anaconda.com/download)
-        - Or, install [Mini-Forge](https://github.com/conda-forge/miniforge?tab=readme-ov-file#download). 
+    - Or, install [Mini-Forge](https://github.com/conda-forge/miniforge?tab=readme-ov-file#download). 
 
 > [!CAUTION]
 If you do so, it is important that you chose 2 options during installation: 
