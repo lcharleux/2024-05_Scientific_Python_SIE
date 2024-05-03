@@ -3,7 +3,7 @@
 The tutorial will take place over 3 half-days:
 * May 6, 2024 from 1:30 pm to 6:30 pm in room 221 at the SYMME Lab. Maison de la Mécatronique (7 Chem. de Bellevue, 74940 Annecy)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5551.154720955433!2d6.156350776457714!3d45.919759202927594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478b8fb00211a2db%3A0xc095cb5a2f8eda63!2sLaboratoire%20Syst%C3%A8me%20et%20Mat%C3%A9riaux%20pour%20la%20M%C3%A9catronique!5e0!3m2!1sfr!2sfr!4v1714717160818!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+![]("https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5551.154720955433!2d6.156350776457714!3d45.919759202927594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478b8fb00211a2db%3A0xc095cb5a2f8eda63!2sLaboratoire%20Syst%C3%A8me%20et%20Mat%C3%A9riaux%20pour%20la%20M%C3%A9catronique!5e0!3m2!1sfr!2sfr!4v1714717160818!5m2!1sfr!2sfr")
 
 
 * May 13, 2024 again from 1:30 pm to 6:30 pm in room 221 at the SYMME Lab.
