@@ -40,14 +40,14 @@ The prerequisites of the module are minimal:
     - Install Anaconda: [Anaconda](https://www.anaconda.com/download)
     - Or, install [Mini-Forge](https://github.com/conda-forge/miniforge?tab=readme-ov-file#download). 
 
-> [!CAUTION]
+> [!IMPORTANT]
 If you do so, it is important that you chose 2 options during installation: 
 >    - install only for me and
 >    - add mini-forge to your `PATH`.
 
 - [Visual Studio Code](https://code.visualstudio.com/download)
 
-> [!CAUTION]  
+> [!IMPORTANT]  
 > For Windows users, chose the "system installer" and not the "user installer".
  
 - GIT: 
