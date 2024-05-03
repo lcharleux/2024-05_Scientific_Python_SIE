@@ -1,9 +1,3 @@
-<style>
-r { color: Red }
-o { color: Orange }
-g { color: Green }
-</style>
-
 # SCIENTIFIC PYTHON TUTORIAL
 
 The tutorial will take place over 3 half-days:
@@ -44,12 +38,12 @@ The prerequisites of the module are minimal:
   
     - For Windows users, there are two solutions:
         - Install Anaconda: [Anaconda](https://www.anaconda.com/download)
-        - Or, install [Mini-Forge](https://github.com/conda-forge/miniforge?tab=readme-ov-file#download). If you do so, it is <r>**IMPORTANT**</r> that you chose 2 options during installation: 
+        - Or, install [Mini-Forge](https://github.com/conda-forge/miniforge?tab=readme-ov-file#download). [!CAUTION] If you do so, it is important that you chose 2 options during installation: 
             - install only for me and
             - add mini-forge to your `PATH` and.
 
     - [Visual Studio Code](https://code.visualstudio.com/download)
-        - <r>**IMPORTANT**</r>: for Windows users, chose the "system installer" and not the "user installer".
+        - [!CAUTION]  for Windows users, chose the "system installer" and not the "user installer".
     - GIT: 
         - For Windows users: [GIT-SCM](https://git-scm.com/downloads)
         - Linux: GIT is already instlalled
