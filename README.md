@@ -34,17 +34,20 @@ The prerequisites of the module are minimal:
 - Install the following software programs:
     -  For MAC OS and Linux users:
 
-        - Mini-Forge: https://github.com/conda-forge/miniforge?tab=readme-ov-file#download
+        - [Mini-Forge](https://github.com/conda-forge/miniforge?tab=readme-ov-file#download)
   
-    - For Windows users:
+    - For Windows users, there are two solutions:
+        - Install Anaconda: [Anaconda](https://www.anaconda.com/download)
+        - Or, install [Mini-Forge](https://github.com/conda-forge/miniforge?tab=readme-ov-file#download). If you do so, it is **IMPORTANT** that you chose 2 options during installation: 
+            - install only for me and
+            - add mini-forge to your `PATH` and.
 
-        - Anaconda: https://www.anaconda.com/download
-
-    - Visual Studio Code: https://code.visualstudio.com/download
+    - [Visual Studio Code](https://code.visualstudio.com/download)
+        - **IMPORTANT**: for Windows users, chose the "system installer" and not the "user installer".
     - GIT: 
-        - For Windows users: https://git-scm.com/downloads
-        - Linux: GIT is already instlalled.
-        - MAC OS: for example, install it via Brew  `brew install git` (https://formulae.brew.sh/formula/git)
+        - For Windows users: [GIT-SCM](https://git-scm.com/downloads)
+        - Linux: GIT is already instlalled
+        - MAC OS: for example, install it via Brew  [`brew install git`](https://formulae.brew.sh/formula/git)
 
 
 
@@ -75,7 +78,7 @@ Each participant must come with a laptop with WIFI connection throughout the mod
 - [ ] Notebook insterface (Jupyter) 
 - [ ] Quick tour of scientific ecosystem: `numpy`, `scipy`, `pandas`, `matplotlib`
 - [ ] Faster code with `numba`
-- [ ] Functions and classes: why and how ?. Examples: `Vector` class, or `csv` dataset numerical integration.
+- [ ] Functions and classes: why and how ?. Examples: `Vector` class, or `csv` dataset numerical integration
 
 
 #### Better code
@@ -87,8 +90,8 @@ Each participant must come with a laptop with WIFI connection throughout the mod
 
 - [ ] Deeper dive into data processing with Pandas
 - [ ] Image processing
-- [ ] Applied math: optimization, integration, ODE, curve fitting.
-- [ ] Machine learning: Scikit, Pytorch, JAX.
+- [ ] Applied math: optimization, integration, ODE, curve fitting
+- [ ] Machine learning: `Scikit`, `Pytorch`, `JAX`
 - [ ] Others
 
 ### DAY 2: Enhance your code and collaborate with it
