@@ -43,7 +43,7 @@ The prerequisites of the module are minimal:
 > [!CAUTION]
 If you do so, it is important that you chose 2 options during installation: 
 >    - install only for me and
->    - add mini-forge to your `PATH` and.
+>    - add mini-forge to your `PATH`.
 
 - [Visual Studio Code](https://code.visualstudio.com/download)
 
