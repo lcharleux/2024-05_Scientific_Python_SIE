@@ -1,13 +1,9 @@
 # SCIENTIFIC PYTHON TUTORIAL
 
 The tutorial will take place over 3 half-days:
-* May 6, 2024 from 1:30 pm to 6:30 pm in room 221 at the SYMME Lab. Maison de la Mécatronique (7 Chem. de Bellevue, 74940 Annecy)
-
-![]("https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5551.154720955433!2d6.156350776457714!3d45.919759202927594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478b8fb00211a2db%3A0xc095cb5a2f8eda63!2sLaboratoire%20Syst%C3%A8me%20et%20Mat%C3%A9riaux%20pour%20la%20M%C3%A9catronique!5e0!3m2!1sfr!2sfr!4v1714717160818!5m2!1sfr!2sfr")
-
-
+* May 6, 2024 from 1:30 pm to 6:30 pm in room 221 at the SYMME Lab. Maison de la Mécatronique ( [7 Chem. de Bellevue, 74940 Annecy](https://maps.app.goo.gl/pW6QkaZcSLW72Jx4A))
 * May 13, 2024 again from 1:30 pm to 6:30 pm in room 221 at the SYMME Lab.
-* May 21, 2024 again from 1:30 pm to 6:30 pm but at Polytech (juste nearby) in room C215.
+* May 21, 2024 again from 1:30 pm to 6:30 pm but at Polytech ([5 Chem. de Bellevue, 74940 Annecy](https://maps.app.goo.gl/U29SYPAuPtHFhmMY9)) in room C215.
 
 ## OUTLINE
 
