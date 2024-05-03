@@ -48,7 +48,7 @@ The prerequisites of the module are minimal:
 - [Visual Studio Code](https://code.visualstudio.com/download)
 
 > [!IMPORTANT]  
-> **(For Windows users only)**, chose the "system installer" and not the "user installer".
+> **(For Windows users only)**, chose the "__system installer__" and not the "~~user installer~~".
  
 - GIT: 
     - For Windows users: [GIT-SCM](https://git-scm.com/downloads)
