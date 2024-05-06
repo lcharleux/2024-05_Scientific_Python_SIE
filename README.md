@@ -48,7 +48,7 @@ The prerequisites of the module are minimal:
 - [Visual Studio Code](https://code.visualstudio.com/download)
 
 > [!IMPORTANT]  
-> **(For Windows users only)**, chose the "__system installer__" and not the "~~user installer~~".
+> **(For Windows users only)**, chose the "system installer" and not the "user installer".
  
 - GIT: 
     - For Windows users: [GIT-SCM](https://git-scm.com/downloads)
@@ -116,7 +116,14 @@ Each participant must come with a laptop with WIFI connection throughout the mod
 
 #### Needs (round table):
 
-- [ ] Do stuff ?
-
-
-
+- [ ] Applied math.
+- [ ] Efficient coding.
+- [ ] Image processing.
+- [ ] From matlab to python.
+- [ ] Improving existing code.
+- [ ] Versioning.
+- [ ] From R to python.
+- [ ] Big data.
+- [ ] Data processing.
+- [ ] Basics.
+- [ ] 

@@ -18,6 +18,13 @@ mamba activate tutorial
 ```
 
 ```bash
-mamba install -c conda-forge -y python=3.10 scipy sympy pandas numpy matplotlib numba notebook jupyterlab=3 ipywidgets ipython
+mamba install -c conda-forge -y python=3.10 scipy sympy pandas numpy matplotlib numba notebook jupyterlab=3 ipywidgets ipympl ipython
 ```
 
+## Jupyter Lab
+
+Start using:
+
+```bash
+jupyter lab
+```
