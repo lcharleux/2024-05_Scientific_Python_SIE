@@ -1,4 +1,9 @@
-## Python startup procedure
+# Python startup procedure
+
+
+## Python environment creation
+
+These commands will allow you to create an environment with conda.
 
 ```bash
 conda install -y -c conda-forge mamba
