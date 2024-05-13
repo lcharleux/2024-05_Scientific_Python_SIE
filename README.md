@@ -102,12 +102,15 @@ Each participant must come with a laptop with WIFI connection throughout the mod
 
 ### DAY 2: Enhance your code and collaborate with it
 
-#### Your own library:
+#### Modules and classes:
 
 > [!NOTE]  
 > Create a class to load a CSV file, apply a fit and extract fit parameters. 
 
 - [ ] Modules and classes
+
+#### Your own first library
+
 - [ ] Code Versioning with GIT
 - [ ] Collaborating with GIT, GITHub and VScode
 
