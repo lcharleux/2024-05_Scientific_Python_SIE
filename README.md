@@ -105,7 +105,7 @@ Each participant must come with a laptop with WIFI connection throughout the mod
 #### Your own library:
 
 > [!EXAMPLE]  
-> Proposed example: create a class to load a CSV file, apply a fit and extract fit parameters. 
+> Create a class to load a CSV file, apply a fit and extract fit parameters. 
 
 - [ ] Modules and classes
 - [ ] Code Versioning with GIT
