@@ -6,3 +6,4 @@ src/day_1/data.csv
 *.pyc
 src/day_2/data.csv
 *.xlsx
+src/day_2/nice_fig.pdf

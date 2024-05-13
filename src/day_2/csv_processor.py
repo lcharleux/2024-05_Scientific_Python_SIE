@@ -3,6 +3,7 @@
 import pandas as pd
 import numpy as np
 from scipy import optimize
+import matplotlib.pyplot as plt
 
 
 def myfunc(x, a, b, c):
@@ -31,6 +32,23 @@ class CSVprocessor:
 
     a = property(get_a)
 
+    def plot(self, path=None):
+        plt.figure()
+        xdata, ydata = self.data.x, self.data.y
+        a, b, c = self.fit
+        plt.scatter(xdata, ydata, s=2, marker="+", color="r", label="data")
+        plt.plot(xdata, myfunc(xdata, a, b, c), "b-", label="fit")
+        plt.legend(loc="best")
+        plt.grid()
+        plt.xlabel("x")
+        plt.ylabel("y")
+        if path == None:
+            plt.show()
+        else:
+            plt.savefig(path)
+            plt.close()
+
 
 processor = CSVprocessor("data.csv")
 processor.apply_fit()
+processor.plot("nice_fig.pdf")
