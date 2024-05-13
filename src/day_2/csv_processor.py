@@ -26,6 +26,11 @@ class CSVprocessor:
         params, cov = optimize.curve_fit(myfunc, data.x, data.y)
         self.fit = params
 
+    def get_a(self):
+        return self.fit[0]
+
+    a = property(get_a)
+
 
 processor = CSVprocessor("data.csv")
 processor.apply_fit()
