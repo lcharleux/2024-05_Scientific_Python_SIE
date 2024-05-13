@@ -76,14 +76,14 @@ Each participant must come with a laptop with WIFI connection throughout the mod
 
 #### Introduction
 
-- [ ] Round table
-- [ ] Software verification
-- [ ] First example: simple 2D plot (`numpy`, `matplotlib`)
-- [ ] More complex example: csv file and plot 3D map (pandas, scipy) or [elementary cellular automata](https://en.wikipedia.org/wiki/Elementary_cellular_automaton)
+- [x] Round table
+- [x] Software verification
+- [x] First example: simple 2D plot (`numpy`, `matplotlib`)
+- [x] More complex example: csv file and plot 3D map (pandas, scipy) or [elementary cellular automata](https://en.wikipedia.org/wiki/Elementary_cellular_automaton)
 - [ ] Classical IDE (VScode)
-- [ ] Notebook insterface (Jupyter) 
-- [ ] Quick tour of scientific ecosystem: `numpy`, `scipy`, `pandas`, `matplotlib`
-- [ ] Faster code with `numba`
+- [x] Notebook interface (Jupyter) 
+- [x] Quick tour of scientific ecosystem: `numpy`, `scipy`, `pandas`, `matplotlib`
+- [x] Faster code with `numba`
 - [ ] Functions and classes: why and how ?. Examples: `Vector` class, or `csv` dataset numerical integration
 
 
@@ -96,7 +96,7 @@ Each participant must come with a laptop with WIFI connection throughout the mod
 
 - [ ] Deeper dive into data processing with Pandas
 - [ ] Image processing
-- [ ] Applied math: optimization, integration, ODE, curve fitting
+- [x] Applied math: optimization, integration, ODE, curve fitting
 - [ ] Machine learning: `Scikit`, `Pytorch`, `JAX`
 - [ ] Others
 
