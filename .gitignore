@@ -1,9 +1,7 @@
 .DS_Store
 *checkpoint.ipynb
-src/day_1/data.csv
-*checkpoint.csv
 *checkpoint.py
 *.pyc
-src/day_2/data.csv
+*.csv
+*.pdf
 *.xlsx
-src/day_2/nice_fig.pdf
