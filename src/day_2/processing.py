@@ -15,6 +15,7 @@ class CSVprocessor:
     def __init__(self, path):
         data = pd.read_csv(path)
         self.data = data
+        self.path = path
 
     def apply_fit(self):
         data = self.data

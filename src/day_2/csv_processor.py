@@ -10,13 +10,18 @@ import os
 processors = []
 files = os.listdir("./")
 for file in files:
-    if file.endswith(".csv"):
+    print(f"Processing: {file}")
+    if file.endswith(".csv") and file.startswith("data_"):
         processor = CSVprocessor(file)
         processor.apply_fit()
         processors.append(processor)
-
+        print("  File processed.")
+    else:
+        print("  File rejected.")
 fits = np.array([processor.fit for processor in processors])
-fits = pd.DataFrame(fits, columns=list("abc"))
+files_names = np.array([processor.path for processor in processors])
+fits = pd.DataFrame(fits, columns=list("abc"), index=files_names)
+fits.sort_index(inplace=True)
 
 
 # processor = CSVprocessor("data.csv")
